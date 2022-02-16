@@ -1,9 +1,8 @@
 import React from 'react'
 import ram from '../images/ram.jpg';
-import vinodh from '../images/vinodh.jpg';
+import adhith from '../images/;
 import kailaash from '../images/kk.jpeg'
-import deepak from '../images/deepak.jpeg'
-import steve from '../images/steve.JPG';
+import adhith from '../images/
 import Weather from './Weather';
 
 
