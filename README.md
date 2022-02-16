@@ -18,6 +18,7 @@ The info mostly present is about rent reminder at the moment.
 
 This has been entirely a very good refresher development, although it seems to be basic, I enjoyed working with creating db on AWS, this is something different from what I usually does.
 The highlighted interesting part of this project will be acheiving my immediate goal to remind oursleves of the rents due, as that has been a quite an issue for my housemates to keep up.
+Integrating weather is very interesting as well.
 
 #Further developments :
 
