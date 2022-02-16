@@ -14,3 +14,4 @@ The info mostly present is about rent reminder.
 Further developments :
 will be looking at chatapp integration.
 Will be working on Setting up an notification alert regarding upcoming rent info instead of logging in to check
+Also with the Rent date, need to work with backend to automate the rentdate notification 
